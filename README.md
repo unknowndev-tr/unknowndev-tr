@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/unknownstore2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unknownstore2024" height="30" width="40" /></a>
-<a href="https://discord.gg/unknownstoretr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="unknownstoretr" height="30" width="40" /></a>
+<a href="https://discord.gg/Z4mApKpsVe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="unknownstoretr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
