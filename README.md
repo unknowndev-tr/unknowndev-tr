@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm UnknownDev</h1>
 <h3 align="center">Minecraft & Entry-Level Java Developer</h3>
 
-- 📫 How to reach me **unknowndevofc@gmail.com**
+- 📫 How to reach me **https://guns.lol/unknowndevofc**
 - 🌴 All of my products at: https://www.spigotmc.org/members/unknowndevofc.2103950/
 
 <h3 align="left">Connect with me:</h3>
