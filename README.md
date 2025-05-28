@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm UnknownDev</h1>
 <h3 align="center">Freelance Minecraft & Java Developer</h3>
 
-- 📫 How to reach me **https://guns.lol/unknowndevofc**
+- 📫 How to reach me **https://unknowndev.netlify.app/**
 - 🌴 All of my products at: https://www.spigotmc.org/members/unknowndevofc.2103950/
 
 <h3 align="left">Connect with me:</h3>
